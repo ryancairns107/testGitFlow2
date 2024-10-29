@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "testGitFlowProject.sln"
+    "dotnet.defaultSolution": "testGitFlow2.sln"
 }
